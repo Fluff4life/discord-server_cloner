@@ -19,7 +19,7 @@ self bot server cloner without permission.
 ---
 
 ## How to use.
-➤ Discord Server Cloner. <a href="">click to download</a>
+➤ Discord Server Cloner. <a href="https://github.com/Devl0li/discord-server_cloner/archive/refs/heads/main.zip">click to download</a>
 
 ➤ Open " Devloli_Cloner.pyc ".
 
