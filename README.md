@@ -37,3 +37,6 @@ self bot server cloner without permission.
 <img src="https://cdn.discordapp.com/attachments/924522195529646092/936269906566082640/unknown.png">
 
 ➤Use the commands on the server you want clone.
+
+
+**27/01/2022 time | 9:59**
