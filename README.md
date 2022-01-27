@@ -30,5 +30,10 @@ self bot server cloner without permission.
 **How to find your token.**
 1. Open Discord. <a href="https://discord.com/channels/@me"/>click</a>
 2. Press F12 or Ctrl + Shift + I.
-3. Paste the code in the console.
-> <a href"">code</a>
+3. Paste the code in the console. <a href="https://github.com/Devl0li/discord-server_cloner/blob/main/get_token.txt">code</a>
+
+➤ Set prefix.
+
+<img src="https://cdn.discordapp.com/attachments/924522195529646092/936269906566082640/unknown.png">
+
+➤Use the commands on the server you want clone.
