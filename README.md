@@ -30,7 +30,7 @@ self bot server cloner without permission.
 **How to find your token.**
 1. Open Discord. <a href="https://discord.com/channels/@me"/>click</a>
 2. Press F12 or Ctrl + Shift + I.
-3. Paste the code in the console. `config.js`
+3. Paste the code in the console.
    ```js
    (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
    ```
